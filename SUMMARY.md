@@ -1,7 +1,4 @@
 # Summary
-- [读书](1.read/README.md)
-  - [古文常识](1.read/guwen.md)
-- [科普](2.kepu/README.md)
-- [STEM](3.stem/README.md)
-- [潜规则](4.houhei/README.md)
-  - [职场](4.houhei/strategy.md)
+- [人在旅途](人在旅途/README.md)
+- [五花八门](五花八门/README.md)
+- [写给小睿](写给小睿/README.md)
