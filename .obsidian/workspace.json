@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f0f0dfa727249f2",
+        "id": "048d5129862aaf21",
         "type": "tabs",
         "children": [
           {
-            "id": "577dfee84ac9b2fe",
+            "id": "d7b6fa1627d45498",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,13 +179,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "577dfee84ac9b2fe",
+  "active": "d7b6fa1627d45498",
   "lastOpenFiles": [
-    "人在旅途/Why-come-here.md",
-    "人在旅途/README.md",
+    "阅读清单/阅读清单.md",
+    "README.md",
+    "SUMMARY.md",
+    "阅读清单",
+    "五花八门/strategy.md",
     "写给小睿/README.md",
     "五花八门/guwen.md",
-    "五花八门/README.md",
-    "五花八门/strategy.md"
+    "人在旅途/README.md",
+    "人在旅途/Why-come-here.md",
+    "五花八门/README.md"
   ]
 }
