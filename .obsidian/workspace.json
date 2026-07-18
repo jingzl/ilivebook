@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "048d5129862aaf21",
+        "id": "1599a8fcf2a6bbbd",
         "type": "tabs",
         "children": [
           {
-            "id": "d7b6fa1627d45498",
+            "id": "25e93d3ca3c1f17c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "五花八门/手段和谋略.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "手段和谋略"
+              "title": "新标签页"
             }
           }
         ]
@@ -183,17 +179,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d7b6fa1627d45498",
+  "active": "25e93d3ca3c1f17c",
   "lastOpenFiles": [
+    "五花八门/手段和谋略.md",
+    "理财日记/股票经验.md",
+    "理财日记/理财日记.md",
+    "理财日记",
+    "人在旅途/README.md",
+    "人在旅途/Why-come-here.md",
     "五花八门/README.md",
     "五花八门/古代文学常识.md",
     "写给小睿/README.md",
     "阅读清单/年度阅读清单.md",
     "README.md",
     "SUMMARY.md",
-    "阅读清单",
-    "五花八门/手段和谋略.md",
-    "人在旅途/README.md",
-    "人在旅途/Why-come-here.md"
+    "阅读清单"
   ]
 }
